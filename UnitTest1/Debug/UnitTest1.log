@@ -1,0 +1,3 @@
+﻿  UnitTest1.cpp
+C:\Users\Luke\Desktop\ND\3 Kursas 1 Semestras\Game\PongRefactored\PongRefactored.cpp(422,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UnitTest1.vcxproj -> C:\Users\Luke\Desktop\ND\3 Kursas 1 Semestras\Game\PongRefactored\Debug\UnitTest1.dll
